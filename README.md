@@ -66,20 +66,18 @@ Sou estudante e desenvolvedor em formação, focado em me tornar Full Stack Deve
     style="padding-righ: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original.svg" 
 />
-          
-
----
+<br>
 
 ### Estatísticas
 
+<p>
 <img
     align="left"
-    alt="GIT"
-    height="200px"
-    style="padding-righ: 10px;"
+    alt="GitHub Stats"
+    height="200"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabricio-henrique-dev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6" 
 />
-
+</p>
 
           
           
