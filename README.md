@@ -47,17 +47,6 @@ Sou estudante e desenvolvedor em formação, focado em me tornar Full Stack Deve
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
-
-<img
-    align="left"
-    alt="GITHUB"
-    title="GITHUB"
-    width="30px"
-    style="padding-righ: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg"
-/>
-
-
 <img 
     align="left"
     alt="GIMP"
