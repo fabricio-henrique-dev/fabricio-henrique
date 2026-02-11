@@ -37,6 +37,26 @@ Sou estudante e desenvolvedor em formação, focado em me tornar Full Stack Deve
     style="padding-righ: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
+
+<img
+    align="left"
+    alt="JS"
+    title="JS"
+    width="30px"
+    style="padding-righ: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+
+
+<img
+    align="left"
+    alt="JS"
+    title="JS"
+    width="30px"
+    style="padding-righ: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
+/>
+          
           
           
           
