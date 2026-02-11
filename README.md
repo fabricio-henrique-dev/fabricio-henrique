@@ -13,9 +13,9 @@ Sou estudante e desenvolvedor em formação, focado em me tornar Full Stack Deve
     align="left"
     alt="HTML"
     title="HTML"
-    width="300px"
+    width="30px"
     style="padding-righ: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
 />
 
 
@@ -23,9 +23,9 @@ Sou estudante e desenvolvedor em formação, focado em me tornar Full Stack Deve
     align="left"
     alt="CSS"
     title="CSS"
-    width="300px"
+    width="30px"
     style="padding-righ: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
 
 
@@ -33,7 +33,7 @@ Sou estudante e desenvolvedor em formação, focado em me tornar Full Stack Deve
     align="left"
     alt="JS"
     title="JS"
-    width="300px"
+    width="30px"
     style="padding-righ: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
