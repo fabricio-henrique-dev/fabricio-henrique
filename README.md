@@ -40,8 +40,8 @@ Sou estudante e desenvolvedor em formação, focado em me tornar Full Stack Deve
 
 <img
     align="left"
-    alt="JS"
-    title="JS"
+    alt="GIT"
+    title="GIT"
     width="30px"
     style="padding-righ: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
@@ -50,11 +50,11 @@ Sou estudante e desenvolvedor em formação, focado em me tornar Full Stack Deve
 
 <img
     align="left"
-    alt="JS"
-    title="JS"
+    alt="GITHUB"
+    title="GITHUB"
     width="30px"
     style="padding-righ: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg"
 />
           
           
