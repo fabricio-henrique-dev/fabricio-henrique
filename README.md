@@ -6,7 +6,7 @@ Sou estudante e desenvolvedor em formação, focado em me tornar Full Stack Deve
 
 ---
 
-## Linguagens e Tecnologias
+## Tecnologias
 
 
 <img
