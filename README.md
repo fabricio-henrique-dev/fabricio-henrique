@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-end`**
 
-Sou estudante e desenvolvedor em formação, focado em me tornar Full Stack Developer. Atualmente estou aprofundando meus conhecimentos em HTML, CSS e JavaScript, construindo uma base sólida em front-end antes de avançar para back-end e banco de dados.
+Desenvolvedor front-end em evolução, criando projetos práticos com HTML, CSS e JavaScript e focado em ganhar experiência real para atuar profissionalmente.
 
 ---
 
